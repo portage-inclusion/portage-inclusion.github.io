@@ -1,0 +1,51 @@
+/* Blowfish scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Gray */
+  --color-neutral-50: 248, 250, 252;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 100, 116, 139;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 30, 41, 59;
+  --color-neutral-900: 15, 23, 42;
+  /* Orange */
+  --color-primary: 234, 68, 11;
+  --color-primary-50: 255, 240, 235; /* Very light */
+  --color-primary-100: 255, 210, 190; /* Light */
+  --color-primary-200: 250, 160, 90; /* Getting closer to base */
+  --color-primary-300: 245, 110, 40; /* Slightly lighter than base */
+  --color-primary-400: 239, 80, 20; /* Slightly lighter than base */
+  --color-primary-500: 234, 68, 11; /* Base */
+  --color-primary-600: 200, 58, 9; /* Darker */
+  --color-primary-700: 165, 48, 7; /* More Darker */
+  --color-primary-800: 130, 38, 5; /* Very Dark */
+  --color-primary-900: 95, 28, 3;  /* Darkest */
+  /* purple */
+  --color-primary: 93, 36, 110;
+  --color-primary-50:  250, 235, 255; /* Very light */
+  --color-primary-100: 220, 180, 230; /* Light */
+  --color-primary-200: 190, 125, 205; /* Getting closer to base */
+  --color-primary-300: 160, 70, 180; /* Slightly lighter than base */
+  --color-primary-400: 125, 50, 145; /* Slightly lighter than base */
+  --color-primary-500: 93, 36, 110; /* Base */
+  --color-primary-600: 75, 29, 90; /* Darker */
+  --color-primary-700: 60, 23, 70; /* More Darker */
+  --color-primary-800: 45, 17, 50; /* Very Dark */
+  --color-primary-900: 30, 11, 30; /* Darkest */
+  /* purple */
+  --color-secondary: 93, 36, 110;
+  --color-secondary-50:  250, 235, 255; /* Very light */
+  --color-secondary-100: 220, 180, 230; /* Light */
+  --color-secondary-200: 190, 125, 205; /* Getting closer to base */
+  --color-secondary-300: 160, 70, 180; /* Slightly lighter than base */
+  --color-secondary-400: 125, 50, 145; /* Slightly lighter than base */
+  --color-secondary-500: 93, 36, 110; /* Base */
+  --color-secondary-600: 75, 29, 90; /* Darker */
+  --color-secondary-700: 60, 23, 70; /* More Darker */
+  --color-secondary-800: 45, 17, 50; /* Very Dark */
+  --color-secondary-900: 30, 11, 30; /* Darkest */
+}

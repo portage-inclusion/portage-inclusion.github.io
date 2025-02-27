@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+</head>
+<body>
+
+    <header>
+        {{ with .Params.heroImage }}
+        <div style="background-image: url('{{ . | relURL }}'); height: 300px; background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; text-align: center; color: white;">
+            <h1>{{ .Title }}</h1>
+        </div>
+        {{ else }}
+            <h1>{{ .Title }}</h1>
+        {{ end }}
+    </header>
+
+    <main style="padding: 20px;">
+        {{ .Content }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ now.Year }} Ahoy Inclusion Solutions</p>
+    </footer>
+
+</body>
+</html>
