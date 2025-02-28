@@ -6,11 +6,7 @@ layoutBackgroundHeaderSpace: false
 ---
 
 To get in touch contact [portage-inclusion@proton.me](mailto:portage-inclusion@proton.me?subject=Hello%20hello)
-To get in touch contact <a href="mailto:portage-inclusion@proton.me?subject=Hello%20hello" style="color: #ea440B;">portage-inclusion@proton.me</a> \
-To get in touch contact <a href="mailto:portage-inclusion@proton.me?subject=Hello%20hello" style="color: #ea440B !important;">portage-inclusion@proton.me</a>
 
-
-#ea440B
 Looking forward to speaking with you soon,\
 Trent
 
