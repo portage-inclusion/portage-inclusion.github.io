@@ -1,13 +1,17 @@
 ---
-title: "A Cat's Rainy Day"
+title: "Contact Us"
 date: 2024-10-27 # Replace with the desired date
-template: "single"
+showBackground: "true"
+layoutBackgroundHeaderSpace: false
 ---
 
-![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)
+To get in touch contact [portage-inclusion@proton.me](mailto:portage-inclusion@proton.me?subject=Hello%20hello)
+To get in touch contact <a href="mailto:portage-inclusion@proton.me?subject=Hello%20hello" style="color: #ea440B;">portage-inclusion@proton.me</a> \
+To get in touch contact <a href="mailto:portage-inclusion@proton.me?subject=Hello%20hello" style="color: #ea440B !important;">portage-inclusion@proton.me</a>
 
 
-[Email Me](mailto:portage-inclusion@proton.me?subject=Hello%20hello)
-Email address here. 
+#ea440B
+Looking forward to speaking with you soon,\
+Trent
 
-Looking forward to speaking with you soon. 
+<img src="https://images.macrumors.com/t/tOc8nbeDpo1cQHgSRGWeq-7zi6U=/1600x0/article-new/2025/02/apple-1-rr-auction.jpg" alt="Your descriptive alt text here" style="width: 400px; height: auto; float: right; margin-right: 10px;">

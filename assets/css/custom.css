@@ -1,0 +1,16 @@
+/* Change the color of mailto links specifically */
+a[href^="mailto:"] {
+    color: #ea440B !important;
+}
+
+a[href^="mailto:"]:hover{
+    color: #ea440B !important;
+    text-decoration: underline; /* Underline the link when hovered */
+
+}
+
+/* Style for links when hovered over */
+a:hover {
+  color: #5D246E !important; /* Change color on hover */
+  text-decoration: underline; /* Underline the link when hovered */
+}

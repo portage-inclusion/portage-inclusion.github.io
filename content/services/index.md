@@ -1,7 +1,8 @@
 ---
-title: "Our Services: Building Inclusive Environments for Everyone"
+title: "Services"
 date: 2024-10-27 # Replace with the desired date
-template: "single"
+showBackground: "true"
+layoutBackgroundHeaderSpace: false
 ---
 
 **At Portage Inclusion, we believe that true inclusion is not just a buzzword, but a fundamental right. We partner with businesses and organizations to create environments where everyone feels welcome, valued, and empowered, particularly those who are neurodiverse. We offer bespoke 1:1 training and consulting services, tailored to your specific needs and goals, to foster lasting positive change.**
@@ -65,5 +66,4 @@ We understand that demonstrating the value of inclusive practices is crucial. Th
 
 By partnering with Everyday Inclusion, you not only create a more inclusive environment but also gain the tools to effectively communicate your commitment to diversity and equity.
 
-**Let’s build a more inclusive future together. Contact us today for a free consultation.**
-
+**Let’s build a more inclusive future together. [Contact](mailto:portage-inclusion@proton.me?subject=Hello%20hello) us today for a free consultation.**

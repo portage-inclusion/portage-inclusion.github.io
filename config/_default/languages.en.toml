@@ -12,7 +12,7 @@ title = ""
   logo = "img/ahoy-purple-sm.png"
   secondaryLogo = "img/ahoy-orange-sm.png"
   description = "My awesome website"
-  copyright = "Built in Yorkshire | 2025 © trentfolan | Privacy Policy"
+  copyright = "Privacy Policy | Built in Yorkshire | trentfolan © 2025"
 
 [params.author]
 #  name = "Welcoming Inclusive Pratices"

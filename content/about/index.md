@@ -1,8 +1,8 @@
 ---
-title: "About Portage Inclusion Solutions"
+title: "About Us"
 date: 2024-10-27 # Replace with the desired date
-template: "single"
-heroImage: "static/img/hero-test.jpg"
+showBackground: "true"
+layoutBackgroundHeaderSpace: false
 ---
 
 Hi, I'm Trent

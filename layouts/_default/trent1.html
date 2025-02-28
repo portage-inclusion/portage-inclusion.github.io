@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <style>
+        body {
+            background-color: white; /* Default background */
+            background-size: cover;
+            background-repeat: no-repeat;
+            margin: 0; /* Remove default body margin */
+        }
+        .content-wrapper {
+          min-height: 100vh; /* Ensure full viewport height */
+          display: flex;
+          flex-direction: column;
+        }
+
+        .main-content {
+          flex-grow: 1; /* Allow content to grow */
+          padding: 20px; /* Add some padding around the content */
+        }
+
+        footer {
+          text-align: center;
+          padding: 10px;
+          background-color: #f0f0f0;
+        }
+
+    </style>
+    {{ if .Params.backgroundImage }}
+        <style>
+            body {
+                background-image: url('{{ .Params.backgroundImage }}');
+            }
+        </style>
+    {{ end }}
+</head>
+<body class="content-wrapper">
+
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/posts/">Posts</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        {{ block "main" . }}
+            {{ .Content }}
+        {{ end }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+</body>
+</html>
