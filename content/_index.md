@@ -20,4 +20,4 @@ We offer a wide range of services to help you create a more inclusive workplace,
 
 We enthusiastically help organizations grow and celebrate their culture of inclusion and accessibility.
 
-Let's talk about building your inclusive future. Schedule a free consultation today. LINK LINK LINK
+Let's talk about building your inclusive future. Schedule a free consultation **[today.](mailto:portage-inclusion@proton.me?subject=Hello%20hello)**
