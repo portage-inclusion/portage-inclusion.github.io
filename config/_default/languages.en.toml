@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "Portage Inclusion Solutions"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ title = ""
   rtl = false
   # dateFormat = "2 January 2006"
   logo = "img/ahoy-purple-sm.png"
-  secondaryLogo = "img/ahoy-orange-sm.png"
+  secondaryLogo = "img/ahoy-orange-sm2.svg"
   description = "My awesome website"
   copyright = "Privacy Policy | Built in Yorkshire | trentfolan © 2025"
 
