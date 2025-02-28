@@ -13,7 +13,7 @@ Portage Inclusion Solutions was founded on the principle that inclusion is a fun
 
 Creating truly inclusive environments requires more than policy changes; it demands a shift in mindset and a commitment to valuing individual differences. While this journey can seem challenging, we provide expert guidance towards sustainable, long-term change. Leveraging our extensive experience in accessibility, neurodiversity, and inclusive practices, we deliver tailored consulting and training solutions that drive tangible results.
 
-With approximately 20% of the UK population identifying as disabled, the need for inclusive practices is clear. We help you lower barriers to entry for employees, customers, friends, and family, ensuring everyone feels welcome and valued. 
+With approximately 20% of the UK population identifying as disabled, myself included, the need for inclusive practices is clear. We help you lower barriers to entry for employees, customers, friends, and family, ensuring everyone feels welcome and valued. 
 
 ![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)
 

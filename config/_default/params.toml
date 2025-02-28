@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/landscape.jpg" # used as default for background images 
+defaultBackgroundImage = "img/background3.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -36,21 +36,21 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [footer]
   showMenu =  true
-  showCopyright = false
+  showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/landscape.jpg" # used in: hero, and card
+  homepageImage = "img/background2.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = false

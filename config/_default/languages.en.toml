@@ -12,17 +12,17 @@ title = ""
   logo = "img/ahoy-purple-sm.png"
   secondaryLogo = "img/ahoy-orange-sm.png"
   description = "My awesome website"
-  copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Built in Yorkshire | 2025 © trentfolan | Privacy Policy"
 
 [params.author]
 #  name = "Welcoming Inclusive Pratices"
 #  email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#  headline = "Inclusion is always a WIP"
-#  bio = "A little bit about you"
+# headline = "Inclusion is always a WIP"
+# bio = "A little bit about you"
 #  links = [
-#  { email = "mailto:hello@your_domain.com" },
+#  { email = "portage-inclusion@proton.me" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

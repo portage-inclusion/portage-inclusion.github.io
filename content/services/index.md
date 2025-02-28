@@ -4,7 +4,7 @@ date: 2024-10-27 # Replace with the desired date
 template: "single"
 ---
 
-**At Everyday Inclusion, we believe that true inclusion is not just a buzzword, but a fundamental right. We partner with businesses and organizations to create environments where everyone feels welcome, valued, and empowered, particularly those who are neurodiverse. We offer bespoke 1:1 training and consulting services, tailored to your specific needs and goals, to foster lasting positive change.**
+**At Portage Inclusion, we believe that true inclusion is not just a buzzword, but a fundamental right. We partner with businesses and organizations to create environments where everyone feels welcome, valued, and empowered, particularly those who are neurodiverse. We offer bespoke 1:1 training and consulting services, tailored to your specific needs and goals, to foster lasting positive change.**
 
 ![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)
 
