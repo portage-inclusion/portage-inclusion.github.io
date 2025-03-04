@@ -23,7 +23,7 @@
 
 [[main]]
   name = 'Who We Are'
-  pageRef = '/about/whoweare'
+  pageRef = 'whoweare'
   parent = 'About'
   weight = 1
 
