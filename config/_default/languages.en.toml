@@ -9,8 +9,8 @@ title = "Portage Inclusion Solutions"
   isoCode = "en"
   rtl = false
   # dateFormat = "2 January 2006"
-  logo = "img/ahoy-purple-sm.png"
-  secondaryLogo = "img/ahoy-orange-sm.png"
+  logo = "img/ahoy-icon-purple2.svg"
+  secondaryLogo = "img/ahoy-icon-orangex64.svg"
   description = "My awesome website"
   copyright = "Privacy Policy |  Built in Yorkshire | &#127809; trentfolan © 2025"
 
