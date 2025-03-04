@@ -3,19 +3,11 @@ title: " "
 description: #this is for SEO
 ---
 
-We are a West Yorkshire based inclusion and accessibility consulting firm, deeply passionate about helping organizations create a culture of belonging for everyone. We believe that inclusion is not just the right thing to do, it's also good business, attracting and maintaining staff and bringing customers through the door.
 
-We offer a wide range of services to help you create a more inclusive workplace, including:
+We’re a West Yorkshire-based inclusion and accessibility consulting firm, driven by a passion to help organizations foster a culture where everyone feels they belong. We believe that inclusion isn’t just the right thing to do—it’s smart business. It attracts and retains top talent and draws in customers who value diversity.
 
-<div style="text-align: left;">
+Our approach is cooperative, functioning as your critical friend to meet you where you are. We build easy rapport to navigate your growing knowledge and skills in accessibility and inclusion. By offering frank advice and celebrating your achievements, we make the journey towards inclusion approachable and less overwhelming. 
 
-- Diversity and inclusion training
-- Inclusive leadership development
-- Equity audits and gap analyses
-- DEI strategy development and implementation
-- Marketing and promotional support</div>
+Our goal is to help you support your staff and welcome everyone to your business, fostering a culture where everyone feels they belong.
 
-
-We enthusiastically help organizations grow and celebrate their culture of inclusion and accessibility.
-
-Let's talk about building your inclusive future. Schedule a free consultation **[today.](mailto:portage-inclusion@proton.me?subject=Hello%20hello)**
+Let's start building your inclusive future together. Schedule a free consultation **[today.](mailto:portage-inclusion@proton.me?subject=Hello%20hello)**

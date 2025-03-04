@@ -10,9 +10,9 @@ title = "Portage Inclusion Solutions"
   rtl = false
   # dateFormat = "2 January 2006"
   logo = "img/ahoy-purple-sm.png"
-  secondaryLogo = "img/ahoy-orange-sm2.svg"
+  secondaryLogo = "img/ahoy-orange-sm.png"
   description = "My awesome website"
-  copyright = "Privacy Policy | Built in Yorkshire | trentfolan © 2025"
+  copyright = "Privacy Policy |  Built in Yorkshire | &#127809; trentfolan © 2025"
 
 [params.author]
 #  name = "Welcoming Inclusive Pratices"
