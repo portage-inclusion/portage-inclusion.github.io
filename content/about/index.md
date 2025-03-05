@@ -18,5 +18,3 @@ With approximately 20% of the UK population identifying as disabled, including m
 * **Empathy and Understanding:**  We approach every project with empathy and a deep understanding of the challenges faced by individuals and organizations.
 * **Practical Solutions:** We provide actionable strategies that can be implemented right away.
 * **Lasting Impact:** We're committed to building long-term partnerships and fostering sustainable change. By developing a robust framework and equipping you with the know-how, we build your confidence to continue the journey towards inclusion independently.
-
-![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)

@@ -18,8 +18,6 @@ Creating truly inclusive environments requires more than policy changes; it dema
 
 With approximately 20% of the UK population identifying as disabled, myself included, the need for inclusive practices is clear. We help you lower barriers to entry for employees, customers, friends, and family, ensuring everyone feels welcome and valued. 
 
-![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)
-
 **Our Approach:**
 
 * **Empathy and Understanding:** We approach every project with empathy and a deep understanding of the challenges faced by individuals and organizations.

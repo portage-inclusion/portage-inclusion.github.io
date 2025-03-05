@@ -14,5 +14,3 @@ How to Reach Us:
 Looking forward to starting the conversation and making a positive impact with you!
 
 Trent
-
-<img src="https://images.macrumors.com/t/tOc8nbeDpo1cQHgSRGWeq-7zi6U=/1600x0/article-new/2025/02/apple-1-rr-auction.jpg" alt="Your descriptive alt text here" style="width: 400px; height: auto; float: right; margin-right: 10px;">

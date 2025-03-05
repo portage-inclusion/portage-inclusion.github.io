@@ -21,5 +21,3 @@ This passion for inclusion naturally extended into my professional life. My spec
 
 I'm thrilled to expand this work with Portage Inclusion, supporting more community and adult spaces—from breweries and cafes to bars and recreation clubs. Together, we can create environments where everyone feels welcome and valued.
 
-![A cat sitting on a windowsill, looking out at a rainy day](https://images.macrumors.com/t/wvBp_HGYzUZeneatDI1358r-HVg=/800x0/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg?lossy)
-
